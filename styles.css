@@ -1,0 +1,37 @@
+/* add your CSS here */
+* {
+    box-sizing: border-box;
+}
+
+div {
+    border: 1px solid #ccc;
+    padding: 1%;
+}
+
+.container {
+    width: 320px;
+    box-shadow: 8px 8px 2px #ddd;
+}
+
+.card {
+    width: 300px;
+    margin: 10px 0;
+}
+
+.card > p:first-child {
+    font-style: italic;
+}
+
+span {
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+
+.animal-info {
+  font-style: italic;
+}
