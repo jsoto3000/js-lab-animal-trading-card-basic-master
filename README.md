@@ -4,7 +4,7 @@
 ## How to View
 1. Download or clone the repository onto your machine.
 2. Extract the .zip file
-3. Open card.html in your browser.
+3. Open index.html in your browser.
 4. Alternatively you can click on the following [Basic Animal Trading Card](https://jsoto3000.github.io/js-lab-animal-trading-card-basic-master/ "Basic Animal Trading Card") to view.
 
 # Animal Trading Card Instructions
